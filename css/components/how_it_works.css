@@ -1,0 +1,62 @@
+.how-it-works-cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.how-it-works-card-1 {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: black;
+  border-radius: 15px;
+  box-shadow: 0px 0px 15px rgb(255, 255, 255);
+}
+
+.how-it-works-card-1:hover {
+  transition-duration: 500ms;
+  background-color: white;
+  color: black;
+}
+
+.how-it-works-card-2:hover {
+  transition-duration: 500ms;
+  background-color: white;
+  color: black;
+}
+
+.how-it-works-card-3:hover {
+  transition-duration: 500ms;
+  background-color: white;
+  color: black;
+}
+
+.how-it-works-card-2 {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: black;
+  border-radius: 15px;
+  box-shadow: 0px 0px 15px rgb(255, 255, 255);
+}
+
+.how-it-works-card-3 {
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: black;
+  border-radius: 15px;
+  box-shadow: 0px 0px 15px rgb(255, 255, 255);
+}
+
+.icon {
+  width: 100px;
+  height: 100px;
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
+}
